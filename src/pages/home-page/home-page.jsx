@@ -1,6 +1,5 @@
 import React from "react";
 
-import img from "../../assets/giving-image.PNG";
 import FadeExample from "../../components/main-slider/home.slider";
 
 import {

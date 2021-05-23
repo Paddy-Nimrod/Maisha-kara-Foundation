@@ -15,7 +15,7 @@ import {
   IconContainer,
   IconPot,
   HeaderButton,
-  Icon,
+ 
 } from "./header.style";
 
 const HeaderComponent = () => {

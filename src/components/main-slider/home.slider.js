@@ -15,19 +15,19 @@ const FadeExample = () => {
         <Fade>
           <div className="each-fade">
             <div>
-              <img src={fadeImages[0]} />
+              <img src={fadeImages[0]} alt="j" />
             </div>
             {/* <p>First Slide</p> */}
           </div>
           <div className="each-fade">
             {/* <p>Second Slide</p> */}
             <div>
-              <img src={fadeImages[1]} />
+              <img src={fadeImages[1]} alt="h" />
             </div>
           </div>
           <div className="each-fade">
             <div>
-              <img src={fadeImages[2]} />
+              <img src={fadeImages[2]} alt="i" />
             </div>
             {/* <p>Third Slide</p> */}
           </div>

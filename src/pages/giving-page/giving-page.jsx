@@ -1,6 +1,5 @@
-import React, { useState, setState } from "react";
+import React from "react";
 import img from "../../assets/giving-image.PNG";
-import image from "../../assets/giving-page.png";
 import Slideshow from '../../components/image-slider/image-slider.component';
 
 import {

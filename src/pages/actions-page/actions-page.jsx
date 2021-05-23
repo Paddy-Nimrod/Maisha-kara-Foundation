@@ -40,7 +40,7 @@ const ActionComponent = () => {
         </ImageContainer2>
 
         <BottonContainer>
-          <img src={action3} width="100%" height="600vh" />
+          <img src={action3} width="100%" height="600vh" alt="u" />
           <ImageCaption>
             APDK Team; Ms Leya Director Msa, Eunice –Nbi , Salim Msa & Catherine
             MKT
